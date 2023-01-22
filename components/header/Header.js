@@ -7,7 +7,7 @@ function Header() {
     // </header>
     <nav class="flex items-center justify-between flex-wrap bg-[#f4f2f0] p-6">
       <div class="flex items-center flex-shrink-0 text-[#0f0c0b] mr-6">
-        <img src="../../Team-Myow.png" alt="Team Myow" className="w-56 h-14" />
+        <img src="../../Team-Myow.png" alt="Team Myow" className="w-56" />
         {/* <span class="font-semibold text-xl tracking-tight">Your logo</span> */}
       </div>
       <div class="block lg:hidden">
